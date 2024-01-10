@@ -1,0 +1,13 @@
+footer {
+	background-color: $blue-700;
+
+	a,
+	span {
+		color: #fff;
+
+		&:hover,
+		&:visited {
+			color: #fff;
+		}
+	}
+}
